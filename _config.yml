@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuying Wu/Personal Homepage"
+title                    : "Yuying Wu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuying Wu"
 description              : &description "personal description"
