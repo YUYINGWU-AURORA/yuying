@@ -12,9 +12,9 @@ title                    : "Yuying Wu/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuying Wu"
 description              : &description "personal description"
-url                      : https://yuyingwu-aurora/yuying.github.io"
+url                      : https://yuyingwu-aurora.github.io/yuying/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuyingwu-aurora/yuying.github.io"
+repository               : "yuyingwu-aurora.github.io/yuying"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
