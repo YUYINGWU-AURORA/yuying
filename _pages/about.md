@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at the University of Birmingham, expecting to graduate in 2025. My current research centres on empirical analysis of imperfect knowledge in Macro and Finance, with a specific emphasis on macroeconomic policy making. I am also interested in the formation and learning of expectations among enterprises and households.
 
-<div style="display: flex; justify-content: center; gap: 2rem; padding-top: 150px; margin-top: 100px;">
+<div style="display: flex; justify-content: center; gap: 2rem; padding-top: 100px; margin-top: 150px;">
     <!-- 左边的 Interests 和右边的 Education 保持不变 -->
 </div>
 
