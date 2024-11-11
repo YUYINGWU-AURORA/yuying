@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="line-height: 1.6;">
+<p style="line-height: 2;">
     I am a PhD candidate in Economics at the University of Birmingham, expecting to graduate in 2025. My current research centres on empirical analysis of imperfect knowledge in Macro and Finance, with a specific emphasis on macroeconomic policy making. I am also interested in the formation and learning of expectations among enterprises and households.
 </p>
 
