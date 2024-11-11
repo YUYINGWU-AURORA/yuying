@@ -75,28 +75,28 @@
 /*
    Author profile and links
    ========================================================================== */
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 150px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  max-width: 150px; /* 限制最大宽度，避免不必要的缩放 */
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
   }
+}
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
+/* 单独为 img 元素设置样式 */
+.author__avatar img {
+  max-width: 150px; /* 确保头像尺寸不超过150px */
+  border-radius: 50%;
+  margin-top: 10px; /* 添加一个小的上边距 */
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+  @include breakpoint($large) {
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 
