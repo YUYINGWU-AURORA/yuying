@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD candidate in Economics at the University of Birmingham, expecting to graduate in 2025. My current research centres on empirical analysis of imperfect knowledge in Macro and Finance, with a specific emphasis on macroeconomic policy making. I am also interested in the formation and learning of expectations among enterprises and households.
 
-<div style="display: flex; justify-content: center; gap: 2rem; padding-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 2rem; padding-top: 50px;">
   <!-- Left Column: Interests -->
-  <div style="width: 45%; margin-top: 50px;">
+  <div style="width: 45%;">
     <h2>Interests</h2>
     <ul>
       <li>Macroeconomic Expectations</li>
