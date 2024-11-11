@@ -92,7 +92,6 @@
 .author__avatar img {
   max-width: 150px; /* 确保头像尺寸不超过150px */
   border-radius: 50%;
-  margin-top: 10px; /* 添加一个小的上边距 */
 
   @include breakpoint($large) {
     padding: 5px;
