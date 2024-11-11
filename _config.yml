@@ -9,6 +9,17 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuyingwu-aurora.github.io/yuying"
 
 # Site Author
+/* 在主CSS文件中添加自定义样式 */
+.avatar-image {
+    width: 150px; /* 增加宽度 */
+    height: auto; /* 保持比例 */
+    margin-top: 20px; /* 调整照片与上方的距离 */
+}
+
+.sidebar-content {
+    margin-top: 30px; /* 控制照片与下方内容的距离 */
+}
+
 author:
   # Biographic information
   avatar           : "CV照.png"
