@@ -107,7 +107,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
-  margin-top: 80px;
+  margin-top: 50px;
 
   @include breakpoint($large) {
     display: block;
@@ -119,7 +119,6 @@
 
 
 .author__name {
-  text-align: center;
   margin: 0;
 
   @include breakpoint($large) {
@@ -149,7 +148,6 @@
 }
 
 .author__bio {
-   text-align: center;
   margin: 0;
 
   @include breakpoint($large) {
