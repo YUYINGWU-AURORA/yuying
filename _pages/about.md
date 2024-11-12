@@ -19,7 +19,6 @@ redirect_from:
       <li>Macroeconomic Expectations</li>
       <li>Survey Analysis</li>
       <li>Behavioral Economics</li>
-      <li>Big Data Analysis</li>
     </ul>
   </div>
 
