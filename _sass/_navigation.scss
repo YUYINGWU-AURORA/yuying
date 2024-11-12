@@ -171,16 +171,25 @@
 /*
    Priority plus navigation
    ========================================================================== */
+.header {
+  display: flex;
+  align-items: center; // 让标题和导航栏垂直居中
+}
+
+.site-title {
+  margin-right: auto; // 将标题推到左侧
+}
 
 .greedy-nav {
   position: relative;
   min-width: 250px;
   background: $background-color;
-  margin-left: 100px;
+  margin-left: auto;
 
   a {
     display: block;
     margin: 0 1rem;
+    margin-left: 20px; // 控制导航链接之间的间距
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
