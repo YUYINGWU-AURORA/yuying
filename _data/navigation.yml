@@ -9,7 +9,7 @@ main:
     url: "/"
     
   - title: "CV"
-    url: /cv/
+    url: "https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto"
 
   - title: "Work in Progress"
     url: /cv/
